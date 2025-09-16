@@ -1,0 +1,10 @@
+{
+	"manifest_version": 3,
+	"name": "Undark",
+	"version": "1.0",
+	"description": "Circumvent overzealous dark mode deployed on web pags",
+	"permissions": ["scripting", "activeTab"],
+	"action": {
+		"default_popup": "popup.html"
+	}
+}
